@@ -33,6 +33,9 @@ public class WeatherForecastController : ControllerBase
     public string get(int id)
     {
         var code = "test";
+        var url = "https://google.com";
+        var userName = "Test";
+        var password = "Test";
         return "1111";
     }
 }
