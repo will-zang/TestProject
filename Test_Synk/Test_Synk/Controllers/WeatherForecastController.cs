@@ -29,5 +29,11 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
+
+    public string get(int id)
+    {
+        var code = "test";
+        return "1111";
+    }
 }
 
