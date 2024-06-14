@@ -36,6 +36,7 @@ public class WeatherForecastController : ControllerBase
         var url = "https://google.com";
         var userName = "Test";
         var password = "Test";
+        var combine = $"{Test} - {password}";
         return "1111";
     }
 }
