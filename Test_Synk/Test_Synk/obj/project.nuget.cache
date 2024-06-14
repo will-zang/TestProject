@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4I3C8XmJ9l4TIJlgq9TJDieJMBgSrdbUm8SitkA83wi66gCaHfR0gQfG5MlQ26MEF0PYZpwdldry2CJj4wnIGQ==",
+  "success": true,
+  "projectFilePath": "/Users/Shared/Company Projects/Test_GIT/TestProject/Test_Synk/Test_Synk/Test_Synk.csproj",
+  "expectedPackageFiles": [
+    "/Users/willzang/.nuget/packages/microsoft.aspnetcore.openapi/7.0.19/microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
+    "/Users/willzang/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/willzang/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/willzang/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/willzang/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/willzang/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/willzang/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
